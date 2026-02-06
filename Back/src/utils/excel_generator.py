@@ -12,7 +12,7 @@ def generar_excel_prueba():
     df = pd.DataFrame(datos)
 
     # 3. Definimos el nombre del archivo
-    nombre_archivo = 'data/output/tickets_prueba.xlsx'
+    nombre_archivo = 'Back/data/output/tickets_prueba.xlsx'
 
     print(f"Generando el archivo {nombre_archivo}...")
 

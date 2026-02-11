@@ -12,7 +12,7 @@ pip install -r requirements.txt
 De momento se utiliza desde `"uvicorn"`
 con el comando:
 ```bash
-"uvicorn Back.main:app --reload"
+uvicorn Back.main:app --reload
 ```
 
 esto levanta en la url con `fastAPI`:

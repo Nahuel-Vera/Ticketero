@@ -15,7 +15,7 @@ con el comando:
 uvicorn Back.main:app --reload
 ```
 
-esto levanta en la url con `uvicorn`:
+esto levanta en la url con `fastAPI`:
 "http://127.0.0.1:8000/test"
 
 
